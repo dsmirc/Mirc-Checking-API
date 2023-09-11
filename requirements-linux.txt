@@ -1,0 +1,13 @@
+
+beautifulsoup4
+colored
+console
+numerize
+PyAutoGUI
+random_user_agent
+requests
+rsa
+setuptools
+six
+pysocks
+keyboard
